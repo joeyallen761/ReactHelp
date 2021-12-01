@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": ["reacthelp:toggle", "reacthelp:replaceOutdatedExport"]
   },
-  "repository": "https://github.com/joeyallen761/ReactHelp.git",
+  "repository": "https://github.com/joeyallen761/ReactHelp",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
